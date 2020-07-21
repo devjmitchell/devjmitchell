@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Jason!
 
 <!--
 **devjmitchell/devjmitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a U.S. Marine veteran that became a self-taught developer, starting in 2013. I’m always eager to learn new things and have attended multiple code camps, security conventions, and developer Meetup events. I even started my own Meetup group and co-host a podcast, both relating to iOS development and the Swift programming language.
+
+I enjoy sharing my knowledge and helping others. I follow news and updates related to iOS development and Swift... and yes, I have an app in the App Store.
+
+You can find me on Twitter [@dev_jmitchell](https://twitter.com/dev_jmitchell "You should follow Jason on Twitter 😉") or check out my website <https://devjm.com>
