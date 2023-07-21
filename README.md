@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a U.S. Marine veteran that became a self-taught developer, starting in 2013. I’m always eager to learn new things and have attended multiple code camps, security conventions, and developer Meetup events. I even started my own Meetup group and co-host a podcast, both relating to iOS development and the Swift programming language.
+U.S. Marine veteran that started working in the tech world in 2013. I’ve held several leadership roles in the past, as well as multiple engineering jobs. I’ve collaborated with many teams, software engineers, and individuals focused on product vision. This has allowed me to become a better engineer and leader, with the ability to communicate and work effectively with others toward creating great products.
 
-You can find me on Twitter [@dev_jmitchell](https://twitter.com/dev_jmitchell "You should follow Jason on Twitter 😉") or check out my website <https://jasonmitchell.me>
+You can find me on the socials...
+- Twitter: [@dev_jmitchell](https://twitter.com/dev_jmitchell "Follow me on Twitter")
+- Mastodon: [@jason@iosdev.space](https://iosdev.space/@jason "Follow me on Mastodon")
+- Threads: [@jasonmitchellaz](https://www.threads.net/@jasonmitchellaz "Follow me on Threads")
+
+Or check out my websites...
+- Personal: <https://jasonmitchell.io>
+- Business: <https://semperphoenix.com>
